@@ -14,7 +14,7 @@ In order to make it easier to have [netcat](http://radarearth.com/content/using-
 
 - Create *tmux* session project:
 
-      mux edit nodejs_udp.yml
+      mux edit nodejs_udp
 
    or maybe just by copying configuration to your **tmuxinator** project folder:
 
@@ -22,4 +22,4 @@ In order to make it easier to have [netcat](http://radarearth.com/content/using-
 
 - Start tmux session:
 
-      mux start nodejs_udp.yml
+      mux start nodejs_udp
